@@ -21,7 +21,6 @@ List the key features of your To-Do List application. For example:
 - Mark tasks as completed
 - Simple and clean user interface
 - Local storage for task persistence
-- [Add your features...]
 
 ## Tech Stack
 
